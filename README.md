@@ -6,7 +6,7 @@
 
 [![Made with Love](https://img.shields.io/badge/Made%20with-♥-red.svg)](https://github.com/DevSerae)
 [![Status](https://img.shields.io/badge/Status-In%20Development-yellow.svg)]()
-[![License]([https://img.shields.io/badge/License-MIT-blue.svg)](https://img.shields.io/badge/license-%20%20GNU%20GPLv3%20-green?style=plastic)]()
+[![License](https://img.shields.io/badge/license-%20%20GNU%20GPLv3%20-green?style=plastic)]()
 
 [Features](#-features) • [Vision](#-vision) • [Deliverables](#-deliverables) • [Getting Started](#-getting-started)
 
