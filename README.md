@@ -86,21 +86,9 @@ Welcome to a place where **brevity is king**, and the most important things happ
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions to The Wall™! Keep it simple, keep it clean, keep it under 75 characters.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU GPLv3 License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -110,7 +98,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **The Wall™** - *Check the pulse of the internet*
 
-Made with ♥ by [@DevSerae](https://github.com/DevSerae)
+Made with ♥ by
+[@DevSerae](https://github.com/DevSerae)
+[@ShigeClouds](https://github.com/ShigeClouds)
+[@Rob-Tuck](https://github.com/Rob-Tuck)
 
 ---
 
